@@ -1,31 +1,31 @@
 <img src="assets/logo.png" width=512 style="margin-left:auto;margin-right:auto;display:block"/>
 
-```admonish warning "Players beware"
-This is the developer's wiki. The main player wiki is not ready. It will be announced on the Discord, [🔊 Discord](https://discord.gg/funky14)
+```admonish warning "Игроки, будьте осторожны!"
+Это Wiki разработчиков. Основная Wiki-страница для игроков ещё не готова. Об этом будет объявлено в Discord, [🔊 Discord](https://discord.gg/funky14)
 ```
 
-```admonish question "Technical Issues"
-If you are having difficulties with logging into the game or building it, please try the following resources:
-[🔊 Discord](https://discord.gg/funky14). This is the most active community of developers for Space Station 14. Ask a question on the General or Help channel.
-[🎮 Forums](https://forum.funkystation.org/)
+```admonish question "Технические проблемы"
+Если у вас возникли проблемы с входом в игру или с её установкой, попробуйте воспользоваться следующими ресурсами:
+[🔊 Discord](https://discord.gg/funky14). Это самое активное сообщество разработчиков игры Space Station 14. Задайте вопрос в канале General или Help.
+[🎮 Форумы](https://forum.funkystation.org/)
 ```
 
-# Welcome
+# Добро пожаловать
 
-Welcome to the Funky Station Developer Wiki.
+Добро пожаловать на Wiki для разработчиков Funky Station.
 
-This goes over things like getting started, our design principles, and other miscellenious topics that might be developer related.
+Здесь рассматриваются такие вопросы, как первые шаги, наши принципы проектирования и другие разнообразные темы, которые могут быть актуальны для разработчиков.
 
-For other questions specific to RobustToolbox, you'd want to visit the [Space Station 14 Developer Wiki](https://docs.spacestation14.com/index.html)
+По другим вопросам, касающимся конкретно RobustToolbox, рекомендуем посетить [Wiki разработчиков Space Station 14](https://docs.spacestation14.com/index.html)
 
-```admonish question "Contribute to this Wiki"
-If you'd like to contribute to this wiki, make a Pull Request at our [GitHub repo](https://github.com/funky-station/docs)
-[🔊 Discord](https://discord.gg/funky14). This is the Funky Station Community Discord. Ask a question on the General or Development channel.
-[🎮 Forums](https://forum.funkystation.org/) 
+```admonish question "Внесите свой вклад в эту Wiki"
+Если вы хотите внести свой вклад в развитие этой вики, создайте пул-реквест на нашем [репозитории GitHub](https://github.com/funky-station/docs)
+[🔊 Discord](https://discord.gg/funky14). Это Discord-сервер сообщества Funky Station. Задавайте вопросы в каналах general или development.
+[🎮 Форумы](https://forum.funkystation.org/) 
 ```
 
-# How do I get my feature proposed?
+# Как предложить новую функцию?
 
-You want to add a new feature, amazing! You can go ahead and fork this repository, add your feature via a document in the appropriate folder, then go ahead and PR it to here. There are templates provided that you need to use in order for a maintainer to look at it with the attention it deserves. Be descriptive, as it will give you an edge in getting your feature added!
+Вы хотите добавить новую функцию — это замечательно! Вы можете создать форк этого репозитория, добавить описание функции в соответствующую папку, а затем отправить пул-реквест сюда. Имеются шаблоны, которые необходимо использовать, чтобы соредиктор уделил вашему предложению должное внимание. Описывайте всё подробно — это повысит ваши шансы на то, что ваша функция будет добавлена!
 
-[Fork this!](https://github.com/funky-station/docs)
+[Форкайте это!](https://github.com/funky-station/docs)

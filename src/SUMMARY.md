@@ -1,81 +1,81 @@
-Funky Station Developer Docs
+Документация для разработчиков Funky Station
 =====================
 
-[Welcome](index.md)
+[Приветствуем](index.md)
 
-General Help
+Основная помощь
 ====
-- [Getting Started](contributing/getting-started.md)
-  - [Local Hosts](contributing/local-hosts.md)
-  - [Branching](contributing/branching.md)
-- [Codebase Conventions](contributing/codebase-conventions.md)
-- [Pull Request Guidelines](contributing/pull-requests.md)
+- [Начало работы](contributing/getting-started.md)
+  - [Локальные сервера](contributing/local-hosts.md)
+  - [Ветки](contributing/branching.md)
+- [Рекомендации по коду](contributing/codebase-conventions.md)
+- [Рекомендации по пул-реквестам](contributing/pull-requests.md)
 
 ---
 
-Development
+Разработка
 =====
 
-- [Documentation](documentation/summary.md)
-- [Art Guidelines]()
+- [Документация](documentation/summary.md)
+- [Арт-инструкции]()
 
 ---
 
-Design
+Дизайн
 ===============
 
-- [Design Principles](design/design-principles.md)
-- [What is a Proposal?](design/what-is-a-proposal.md)
-  - [Game Design Template](design/template.md)
-  - [Map Template](design/maps/template.md)
-  - [Lore Template](design/lore/template.md)
+- [Принципы дизайна](design/design-principles.md)
+- [Что такое предложение?](design/what-is-a-proposal.md)
+  - [Шаблон гейм-дизайна](design/template.md)
+  - [Шаблон карты](design/maps/template.md)
+  - [Шаблон лора](design/lore/template.md)
 
 ---
 
-- [Game Design Proposals]()
-  - [Themes](design-proposals/themes/summary.md)
-    - [Faction: NanoTrasen](design-proposals/themes/nanotrasen-rebrand.md)
-  - [Roundflow](design-proposals/roundflow/summary.md)
-    - [Transportation](design-proposals/roundflow/transportation.md)
-    - [Round Start Information]()
-      - [Cue Cards]()
-    - [Responsive Information]()
-      - [Metashield: "Corporate Secrets"](design-proposals/roundflow/round-start-information/corporate-secrets.md)
-      - [Guidebook](design-proposals/roundflow/guidebook.md)
-    - [End of Round Information]()
-  - [Player Interaction](design-proposals/player-interaction/summary.md)
-    - [Species]()
-      - [Galph](design-proposals/player-interaction/species/galph-species.md)
-  - [Expected Gameplay](design-proposals/expected-gameplay/summary.md)
-    - [Scrip](design-proposals/expected-gameplay/scrip.md)
-    - [Deputies](design-proposals/expected-gameplay/deputies.md)
-    - [Security](design-proposals/expected-gameplay/security/shitsec.md)
-      - [Weaponry: Lasers v1](design-proposals/expected-gameplay/security/lasers.md)
-      - [Weaponry: Lasers v2](design-proposals/expected-gameplay/security/lasersec.md)
-      - [Tools: HUD](design-proposals/expected-gameplay/security/hud-removal.md)
-      - [Law: Court Cases](design-proposals/expected-gameplay/security/courtandtrials.md)
-    - [Unions](design-proposals/expected-gameplay/unions.md)
-    - [Engineering](design-proposals/expected-gameplay/engineering/station-maintenance.md)
-      - [Atmospherics Consolidation](design-proposals/expected-gameplay/engineering/atmos-consolidation.md)
-    - [Cargo](design-proposals/expected-gameplay/cargo/cargo_redesign.md)
-      - [Botany](design-proposals/expected-gameplay/cargo/botany-changes.md)
+- [Предложения по гейм-дизайну]()
+  - [Темы](design-proposals/themes/summary.md)
+    - [Фракция: NanoTrasen](design-proposals/themes/nanotrasen-rebrand.md)
+  - [Протекание раунда](design-proposals/roundflow/summary.md)
+    - [Транспортировка](design-proposals/roundflow/transportation.md)
+    - [Раунд-старт информция]()
+      - [Карточки с подсказками]()
+    - [Адаптивная информация]()
+      - [Метазащита: "Корпоративные тайны"](design-proposals/roundflow/round-start-information/corporate-secrets.md)
+      - [Руководство](design-proposals/roundflow/guidebook.md)
+    - [Информация по итогам раунда]()
+  - [Взаимодействия игроков](design-proposals/player-interaction/summary.md)
+    - [Расы]()
+      - [Гальф](design-proposals/player-interaction/species/galph-species.md)
+  - [Ожидаемый игровой процесс](design-proposals/expected-gameplay/summary.md)
+    - [Скрип](design-proposals/expected-gameplay/scrip.md)
+    - [Заместители](design-proposals/expected-gameplay/deputies.md)
+    - [Служба безопасности](design-proposals/expected-gameplay/security/shitsec.md)
+      - [Оружейная: Лазеры v1](design-proposals/expected-gameplay/security/lasers.md)
+      - [Оружейная: Лазеры v2](design-proposals/expected-gameplay/security/lasersec.md)
+      - [Инструменты: HUD](design-proposals/expected-gameplay/security/hud-removal.md)
+      - [Закон: Судебные дела](design-proposals/expected-gameplay/security/courtandtrials.md)
+    - [Профсоюзы](design-proposals/expected-gameplay/unions.md)
+    - [Инженерия](design-proposals/expected-gameplay/engineering/station-maintenance.md)
+      - [Консолидация атмосферных техников](design-proposals/expected-gameplay/engineering/atmos-consolidation.md)
+    - [Логистика](design-proposals/expected-gameplay/cargo/cargo_redesign.md)
+      - [Ботаника](design-proposals/expected-gameplay/cargo/botany-changes.md)
       - [Resource Management Console](design-proposals/expected-gameplay/cargo/resource-management-console.md)
-    - [Science]()
-    - [Medical & Health](design-proposals/expected-gameplay/medical/medical-direction.md)
-      - [Condition-Based Medical](design-proposals/expected-gameplay/medical/condition-based-medical-system.md)
-      - [CT Scanners](design-proposals/expected-gameplay/medical/scanner.md)
-  - [Unexpected Gameplay](design-proposals/unexpected-gameplay/summary.md)
-    - [Antag-Optional Design](design-proposals/unexpected-gameplay/antag-optional-design.md)
+    - [Наука]()
+    - [Медицина и здоровье](design-proposals/expected-gameplay/medical/medical-direction.md)
+      - [Медицина, ориентированная на состояние](design-proposals/expected-gameplay/medical/condition-based-medical-system.md)
+      - [КТ сканеры](design-proposals/expected-gameplay/medical/scanner.md)
+  - [Неожидаемый игровой процесс](design-proposals/unexpected-gameplay/summary.md)
+    - [Дополнительный вариант антагонистов](design-proposals/unexpected-gameplay/antag-optional-design.md)
 
 ---
 
-- [Map Proposals]()
-- [Lore Proposals]()
+- [Предложения по карте]()
+- [Предложения по лору]()
 
 ---
 
-Policy
+Политика
 ===============
 
-- [Maintainers](structure/maintainers.md)
-- [Workgroups](structure/workgroups.md)
+- [Мейнтейнеры](structure/maintainers.md)
+- [Рабочие группы](structure/workgroups.md)

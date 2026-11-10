@@ -1,8 +1,8 @@
 [book]
 authors = ["taydeo"]
-language = "en"
+language = "ru"
 src = "src"
-title = "Funky Station Developer Wiki"
+title = "Wiki разработки Funky Station"
 
 [preprocessor]
 

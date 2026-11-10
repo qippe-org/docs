@@ -30,8 +30,8 @@ with open(SUMMARY, "r") as f:
 with open(SUMMARY, "w") as f:
     for line in lines:
         line = line.rstrip("\n")
-        if line.startswith("- [Game Design Proposals]"):
-            f.write("- [Game Design Proposals]()\n")
+        if line.startswith("- [Предложения по гейм-дизайну]"): # edited
+            f.write("- [Предложения по гейм-дизайну]()\n") # edited
             for pline in proposal_lines:
                 f.write(f"{pline}\n")
         else:
